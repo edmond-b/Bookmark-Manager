@@ -2,7 +2,7 @@
 # As a user, I would like a view of all the bookmarks that have been added.
 
 
-![GitHub Logo](./Table.png)
+![Table](./images/table.png)
 Format: ![Alt Text](url)
 
 
