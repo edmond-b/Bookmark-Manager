@@ -3,7 +3,6 @@
 
 
 ![Table](./images/table.png)
-Format: ![Alt Text](url)
 
 
 * Add new bookmarks
