@@ -44,7 +44,7 @@ RSpec.configure do |config|
   # triggering implicit auto-inclusion in groups with matching metadata.
   config.shared_context_metadata_behavior = :apply_to_host_groups
 
-  # ENV['RACK_ENV'] = 'test'
+  ENV['RACK_ENV'] = 'test'
   ENV['ENVIRONMENT'] = 'test'
 
   require File.join(File.dirname(__FILE__), '..', 'app.rb')
